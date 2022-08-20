@@ -1,0 +1,16 @@
+C:\Users\Windows10\source\repos\Güven otel\Güven otel\bin\Debug\Güven otel.exe.config
+C:\Users\Windows10\source\repos\Güven otel\Güven otel\bin\Debug\Güven otel.exe
+C:\Users\Windows10\source\repos\Güven otel\Güven otel\bin\Debug\Güven otel.pdb
+C:\Users\Windows10\source\repos\Güven otel\Güven otel\obj\Debug\Güven otel.csproj.AssemblyReference.cache
+C:\Users\Windows10\source\repos\Güven otel\Güven otel\obj\Debug\Güven otel.csproj.SuggestedBindingRedirects.cache
+C:\Users\Windows10\source\repos\Güven otel\Güven otel\obj\Debug\Güven_otel.Form1.resources
+C:\Users\Windows10\source\repos\Güven otel\Güven otel\obj\Debug\Güven_otel.Properties.Resources.resources
+C:\Users\Windows10\source\repos\Güven otel\Güven otel\obj\Debug\Güven otel.csproj.GenerateResource.cache
+C:\Users\Windows10\source\repos\Güven otel\Güven otel\obj\Debug\Güven otel.csproj.CoreCompileInputs.cache
+C:\Users\Windows10\source\repos\Güven otel\Güven otel\obj\Debug\Güven otel.exe
+C:\Users\Windows10\source\repos\Güven otel\Güven otel\obj\Debug\Güven otel.pdb
+C:\Users\Windows10\source\repos\Güven otel\Güven otel\obj\Debug\Güven_otel.Error.resources
+C:\Users\Windows10\source\repos\Güven otel\Güven otel\obj\Debug\Güven_otel.Homepage.resources
+C:\Users\Windows10\source\repos\Güven otel\Güven otel\obj\Debug\Güven_otel.Rooms.resources
+C:\Users\Windows10\source\repos\Güven otel\Güven otel\obj\Debug\Güven_otel.Room.resources
+C:\Users\Windows10\source\repos\Güven otel\Güven otel\obj\Debug\Güven_otel.Form2.resources
